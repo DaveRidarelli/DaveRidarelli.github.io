@@ -1,0 +1,84 @@
+.top {
+	margin: 10px 11px 12px 13px;
+}
+
+.photocred {
+	text-align:center;
+}
+
+.trivia {
+	font-size: 1.1em;
+}
+
+.youtube {
+	margin: 26px 35px 84px;
+}
+
+#surveytitle{
+	letter-spacing: 2px;
+}
+
+#egreen:active {
+	color:limegreen;
+}
+
+a:link {
+	color:#004023;
+	font-weight:bold;
+}
+
+a:visited {
+	color:#DA6358;
+}
+
+body {
+	font-family: 'Belgrano', serif;
+	background-color: #DCE9FF
+}
+
+tr {
+	font-family: garamond, arial;
+}
+
+th {
+	border: solid black 2px;
+}
+
+td {
+	border: dotted black 1px;
+}
+
+fieldset {
+	border-radius: 10em;
+}
+
+footer {
+	padding :26.3px;
+	border: solid #3D4870;
+	border-radius: 15px;
+	text-align: center;
+}
+
+form {
+	padding: 1px 45px 111px 0;
+	border-radius:10em;
+	background-image: url("007.png") ;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 2em;
+}
+
+ul {
+	list-style-type:upper-roman;
+}
+
+@media screen and (max-width: 635px) {
+    img {
+        display:block;
+        width:90%;
+    }
+}
